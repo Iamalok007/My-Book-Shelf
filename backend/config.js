@@ -1,0 +1,2 @@
+export const PORT = 5555;
+export const mongoDBURL = 'mongodb+srv://alokyadav06042003:1yA9HtxENNjvYx8N@database-book-mern.50yh96a.mongodb.net/Database-Book-MERN?retryWrites=true&w=majority&appName=Database-Book-MERN'
